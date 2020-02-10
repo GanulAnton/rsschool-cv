@@ -1,1 +1,1 @@
- https://ganulanton.github.io/rsschool-cv/cv
+ https://ganulanton.github.io/rsschool-cv/index.html
