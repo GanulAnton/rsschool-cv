@@ -1,0 +1,51 @@
+body {
+  width: 1024px;
+  padding: 10%;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Snell Roundhand", cursive;
+  color: #222222;
+  background: #ffffff url(".png") no-repeat top center
+}
+
+h1 {
+  font-size:  36px ;
+  line-height: normal;
+  text-align: center;
+}
+a {
+color: #0099ef;
+  text-decoration: underline;
+}
+footer {
+  text-align:center;
+}
+ hr {
+    border: none; 
+    color: A4A4A4; 
+    background-color: #A4A4A4; 
+    height: 3px; 
+   }
+
+i {
+  font-weight: bold
+}
+img{
+  border-radius: 50%;
+}
+.avatar{
+  
+  text-align: center; 
+}
+
+.experience{
+  text-align:center;
+}
+
+.skills{
+  text-align:center;
+}
+
+.summary{
+  line-height: 22px;
+}
